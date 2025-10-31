@@ -1,0 +1,3535 @@
+Task suite: libero_object
+Using default initial states
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=1--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=2--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 2
+# successes: 2 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=3--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 3
+# successes: 3 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=4--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 4
+# successes: 4 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=5--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 5
+# successes: 5 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=6--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 6
+# successes: 6 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=7--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 7
+# successes: 7 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=8--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 8
+# successes: 8 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=9--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 9
+# successes: 9 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=10--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 10
+# successes: 10 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=11--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 11
+# successes: 11 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=12--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 12
+# successes: 12 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=13--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 13
+# successes: 13 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=14--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 14
+# successes: 14 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=15--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 15
+# successes: 15 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=16--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 16
+# successes: 16 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=17--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 17
+# successes: 17 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=18--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 18
+# successes: 18 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=19--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 19
+# successes: 19 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=20--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 20
+# successes: 20 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=21--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 21
+# successes: 21 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=22--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 22
+# successes: 22 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=23--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 23
+# successes: 23 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=24--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 24
+# successes: 24 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=25--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 25
+# successes: 25 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=26--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 26
+# successes: 26 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=27--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 27
+# successes: 27 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=28--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 28
+# successes: 28 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=29--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 29
+# successes: 29 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=30--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 30
+# successes: 30 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=31--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 31
+# successes: 31 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=32--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 32
+# successes: 32 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=33--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 33
+# successes: 33 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=34--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 34
+# successes: 34 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=35--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 35
+# successes: 35 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=36--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 36
+# successes: 36 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=37--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 37
+# successes: 37 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=38--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 38
+# successes: 38 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=39--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 39
+# successes: 39 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=40--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 40
+# successes: 40 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=41--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 41
+# successes: 41 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=42--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 42
+# successes: 42 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=43--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 43
+# successes: 43 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=44--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 44
+# successes: 44 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=45--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 45
+# successes: 45 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=46--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 46
+# successes: 46 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=47--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 47
+# successes: 47 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=48--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 48
+# successes: 48 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=49--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 49
+# successes: 49 (100.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=50--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 50
+# successes: 50 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+Using default initial states
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=51--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 51
+# successes: 51 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=52--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 52
+# successes: 52 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=53--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 53
+# successes: 53 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=54--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 54
+# successes: 54 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=55--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 55
+# successes: 55 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=56--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 56
+# successes: 56 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=57--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 57
+# successes: 57 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=58--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 58
+# successes: 58 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=59--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 59
+# successes: 59 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=60--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 60
+# successes: 60 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=61--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 61
+# successes: 61 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=62--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 62
+# successes: 62 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=63--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 63
+# successes: 63 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=64--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 64
+# successes: 64 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=65--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 65
+# successes: 65 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=66--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 66
+# successes: 66 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=67--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 67
+# successes: 67 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=68--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 68
+# successes: 68 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=69--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 69
+# successes: 69 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=70--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 70
+# successes: 70 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=71--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 71
+# successes: 71 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=72--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 72
+# successes: 72 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=73--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 73
+# successes: 73 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=74--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 74
+# successes: 74 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=75--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 75
+# successes: 75 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=76--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 76
+# successes: 76 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=77--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 77
+# successes: 77 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=78--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 78
+# successes: 78 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=79--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 79
+# successes: 79 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=80--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 80
+# successes: 80 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=81--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 81
+# successes: 81 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=82--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 82
+# successes: 82 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=83--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 83
+# successes: 83 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=84--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 84
+# successes: 84 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=85--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 85
+# successes: 85 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=86--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 86
+# successes: 86 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=87--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 87
+# successes: 87 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=88--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 88
+# successes: 88 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=89--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 89
+# successes: 89 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=90--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 90
+# successes: 90 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=91--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 91
+# successes: 91 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=92--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 92
+# successes: 92 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=93--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 93
+# successes: 93 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=94--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 94
+# successes: 94 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=95--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 95
+# successes: 95 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=96--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 96
+# successes: 96 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=97--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 97
+# successes: 97 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=98--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 98
+# successes: 98 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=99--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 99
+# successes: 99 (100.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=100--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 100
+# successes: 100 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+Using default initial states
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=101--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 101
+# successes: 101 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=102--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 102
+# successes: 102 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=103--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 103
+# successes: 103 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=104--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 104
+# successes: 104 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=105--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 105
+# successes: 105 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=106--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 106
+# successes: 106 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=107--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 107
+# successes: 107 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=108--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 108
+# successes: 108 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=109--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 109
+# successes: 109 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=110--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 110
+# successes: 110 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=111--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 111
+# successes: 111 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=112--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 112
+# successes: 112 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=113--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 113
+# successes: 113 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=114--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 114
+# successes: 114 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=115--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 115
+# successes: 115 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=116--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 116
+# successes: 116 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=117--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 117
+# successes: 117 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=118--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 118
+# successes: 118 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=119--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 119
+# successes: 119 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=120--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 120
+# successes: 120 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=121--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 121
+# successes: 121 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=122--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 122
+# successes: 122 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=123--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 123
+# successes: 123 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=124--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 124
+# successes: 124 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=125--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 125
+# successes: 125 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=126--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 126
+# successes: 126 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=127--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 127
+# successes: 127 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=128--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 128
+# successes: 128 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=129--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 129
+# successes: 129 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=130--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 130
+# successes: 130 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=131--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 131
+# successes: 131 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=132--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 132
+# successes: 132 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=133--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 133
+# successes: 133 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=134--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 134
+# successes: 134 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=135--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 135
+# successes: 135 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=136--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 136
+# successes: 136 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=137--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 137
+# successes: 137 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=138--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 138
+# successes: 138 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=139--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 139
+# successes: 139 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=140--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 140
+# successes: 140 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=141--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 141
+# successes: 141 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=142--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 142
+# successes: 142 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=143--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 143
+# successes: 143 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=144--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 144
+# successes: 144 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=145--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 145
+# successes: 145 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=146--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 146
+# successes: 146 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=147--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 147
+# successes: 147 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=148--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 148
+# successes: 148 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=149--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 149
+# successes: 149 (100.0%)
+
+Task: pick up the salad dressing and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=150--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 150
+# successes: 150 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+Using default initial states
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=151--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 151
+# successes: 151 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=152--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 152
+# successes: 152 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=153--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 153
+# successes: 153 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=154--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 154
+# successes: 154 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=155--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 155
+# successes: 155 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=156--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 156
+# successes: 156 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=157--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 157
+# successes: 157 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=158--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 158
+# successes: 158 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=159--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 159
+# successes: 159 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=160--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 160
+# successes: 160 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=161--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 161
+# successes: 161 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=162--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 162
+# successes: 162 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=163--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 163
+# successes: 163 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=164--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 164
+# successes: 164 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=165--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 165
+# successes: 165 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=166--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 166
+# successes: 166 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=167--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 167
+# successes: 167 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=168--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 168
+# successes: 168 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=169--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 169
+# successes: 169 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=170--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 170
+# successes: 170 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=171--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 171
+# successes: 171 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=172--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 172
+# successes: 172 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=173--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 173
+# successes: 173 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=174--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 174
+# successes: 174 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=175--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 175
+# successes: 175 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=176--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 176
+# successes: 176 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=177--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 177
+# successes: 177 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=178--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 178
+# successes: 178 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=179--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 179
+# successes: 179 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=180--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 180
+# successes: 180 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=181--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 181
+# successes: 181 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=182--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 182
+# successes: 182 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=183--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 183
+# successes: 183 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=184--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 184
+# successes: 184 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=185--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 185
+# successes: 185 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=186--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 186
+# successes: 186 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=187--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 187
+# successes: 187 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=188--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 188
+# successes: 188 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=189--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 189
+# successes: 189 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=190--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 190
+# successes: 190 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=191--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 191
+# successes: 191 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=192--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 192
+# successes: 192 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=193--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 193
+# successes: 193 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=194--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 194
+# successes: 194 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=195--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 195
+# successes: 195 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=196--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 196
+# successes: 196 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=197--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 197
+# successes: 197 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=198--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 198
+# successes: 198 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=199--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 199
+# successes: 199 (100.0%)
+
+Task: pick up the bbq sauce and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=200--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 200
+# successes: 200 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+Using default initial states
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=201--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 201
+# successes: 201 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=202--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 202
+# successes: 202 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=203--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 203
+# successes: 203 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=204--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 204
+# successes: 204 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=205--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 205
+# successes: 205 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=206--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 206
+# successes: 206 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=207--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 207
+# successes: 207 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=208--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 208
+# successes: 208 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=209--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 209
+# successes: 209 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=210--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 210
+# successes: 210 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=211--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 211
+# successes: 211 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=212--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 212
+# successes: 212 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=213--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 213
+# successes: 213 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=214--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 214
+# successes: 214 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=215--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 215
+# successes: 215 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=216--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 216
+# successes: 216 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=217--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 217
+# successes: 217 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=218--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 218
+# successes: 218 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=219--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 219
+# successes: 219 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=220--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 220
+# successes: 220 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=221--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 221
+# successes: 221 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=222--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 222
+# successes: 222 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=223--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 223
+# successes: 223 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=224--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 224
+# successes: 224 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=225--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 225
+# successes: 225 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=226--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 226
+# successes: 226 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=227--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 227
+# successes: 227 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=228--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 228
+# successes: 228 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=229--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 229
+# successes: 229 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=230--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 230
+# successes: 230 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=231--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 231
+# successes: 231 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=232--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 232
+# successes: 232 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=233--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 233
+# successes: 233 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=234--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 234
+# successes: 234 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=235--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 235
+# successes: 235 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=236--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 236
+# successes: 236 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=237--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 237
+# successes: 237 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=238--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 238
+# successes: 238 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=239--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 239
+# successes: 239 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=240--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 240
+# successes: 240 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=241--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 241
+# successes: 241 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=242--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 242
+# successes: 242 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=243--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 243
+# successes: 243 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=244--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 244
+# successes: 244 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=245--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 245
+# successes: 245 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=246--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 246
+# successes: 246 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=247--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 247
+# successes: 247 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=248--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 248
+# successes: 248 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=249--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 249
+# successes: 249 (100.0%)
+
+Task: pick up the ketchup and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=250--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 250
+# successes: 250 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+Using default initial states
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=251--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 251
+# successes: 251 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=252--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 252
+# successes: 252 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=253--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 253
+# successes: 253 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=254--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 254
+# successes: 254 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=255--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 255
+# successes: 255 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=256--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 256
+# successes: 256 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=257--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 257
+# successes: 257 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=258--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 258
+# successes: 258 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=259--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 259
+# successes: 259 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=260--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 260
+# successes: 260 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=261--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 261
+# successes: 261 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=262--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 262
+# successes: 262 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=263--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 263
+# successes: 263 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=264--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 264
+# successes: 264 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=265--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 265
+# successes: 265 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=266--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 266
+# successes: 266 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=267--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 267
+# successes: 267 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=268--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 268
+# successes: 268 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=269--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 269
+# successes: 269 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=270--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 270
+# successes: 270 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=271--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 271
+# successes: 271 (100.0%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=272--success=False--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 272
+# successes: 271 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=273--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 273
+# successes: 272 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=274--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 274
+# successes: 273 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=275--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 275
+# successes: 274 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=276--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 276
+# successes: 275 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=277--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 277
+# successes: 276 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=278--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 278
+# successes: 277 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=279--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 279
+# successes: 278 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=280--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 280
+# successes: 279 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=281--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 281
+# successes: 280 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=282--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 282
+# successes: 281 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=283--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 283
+# successes: 282 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=284--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 284
+# successes: 283 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=285--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 285
+# successes: 284 (99.6%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=286--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 286
+# successes: 285 (99.7%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=287--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 287
+# successes: 286 (99.7%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=288--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 288
+# successes: 287 (99.7%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=289--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 289
+# successes: 288 (99.7%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=290--success=False--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 290
+# successes: 288 (99.3%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=291--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 291
+# successes: 289 (99.3%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=292--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 292
+# successes: 290 (99.3%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=293--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 293
+# successes: 291 (99.3%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=294--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 294
+# successes: 292 (99.3%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=295--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 295
+# successes: 293 (99.3%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=296--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 296
+# successes: 294 (99.3%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=297--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 297
+# successes: 295 (99.3%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=298--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 298
+# successes: 296 (99.3%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=299--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 299
+# successes: 297 (99.3%)
+
+Task: pick up the tomato sauce and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=300--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 300
+# successes: 298 (99.3%)
+Current task success rate: 0.96
+Current total success rate: 0.9933333333333333
+Using default initial states
+
+Task: pick up the butter and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=301--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 301
+# successes: 299 (99.3%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=302--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 302
+# successes: 300 (99.3%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=303--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 303
+# successes: 301 (99.3%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=304--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 304
+# successes: 302 (99.3%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=305--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 305
+# successes: 303 (99.3%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=306--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 306
+# successes: 304 (99.3%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=307--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 307
+# successes: 305 (99.3%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=308--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 308
+# successes: 306 (99.4%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=309--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 309
+# successes: 307 (99.4%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=310--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 310
+# successes: 308 (99.4%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=311--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 311
+# successes: 309 (99.4%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=312--success=False--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 312
+# successes: 309 (99.0%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=313--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 313
+# successes: 310 (99.0%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=314--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 314
+# successes: 311 (99.0%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=315--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 315
+# successes: 312 (99.0%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=316--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 316
+# successes: 313 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=317--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 317
+# successes: 314 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=318--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 318
+# successes: 315 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=319--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 319
+# successes: 316 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=320--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 320
+# successes: 317 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=321--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 321
+# successes: 318 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=322--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 322
+# successes: 319 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=323--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 323
+# successes: 320 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=324--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 324
+# successes: 321 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=325--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 325
+# successes: 322 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=326--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 326
+# successes: 323 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=327--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 327
+# successes: 324 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=328--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 328
+# successes: 325 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=329--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 329
+# successes: 326 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=330--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 330
+# successes: 327 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=331--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 331
+# successes: 328 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=332--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 332
+# successes: 329 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=333--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 333
+# successes: 330 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=334--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 334
+# successes: 331 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=335--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 335
+# successes: 332 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=336--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 336
+# successes: 333 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=337--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 337
+# successes: 334 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=338--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 338
+# successes: 335 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=339--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 339
+# successes: 336 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=340--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 340
+# successes: 337 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=341--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 341
+# successes: 338 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=342--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 342
+# successes: 339 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=343--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 343
+# successes: 340 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=344--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 344
+# successes: 341 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=345--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 345
+# successes: 342 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=346--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 346
+# successes: 343 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=347--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 347
+# successes: 344 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=348--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 348
+# successes: 345 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=349--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 349
+# successes: 346 (99.1%)
+
+Task: pick up the butter and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=350--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 350
+# successes: 347 (99.1%)
+Current task success rate: 0.98
+Current total success rate: 0.9914285714285714
+Using default initial states
+
+Task: pick up the milk and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=351--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 351
+# successes: 348 (99.1%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=352--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 352
+# successes: 349 (99.1%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=353--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 353
+# successes: 350 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=354--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 354
+# successes: 351 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=355--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 355
+# successes: 352 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=356--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 356
+# successes: 353 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=357--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 357
+# successes: 354 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=358--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 358
+# successes: 355 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=359--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 359
+# successes: 356 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=360--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 360
+# successes: 357 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=361--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 361
+# successes: 358 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=362--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 362
+# successes: 359 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=363--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 363
+# successes: 360 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=364--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 364
+# successes: 361 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=365--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 365
+# successes: 362 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=366--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 366
+# successes: 363 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=367--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 367
+# successes: 364 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=368--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 368
+# successes: 365 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=369--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 369
+# successes: 366 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=370--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 370
+# successes: 367 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=371--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 371
+# successes: 368 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=372--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 372
+# successes: 369 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=373--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 373
+# successes: 370 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=374--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 374
+# successes: 371 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=375--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 375
+# successes: 372 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=376--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 376
+# successes: 373 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=377--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 377
+# successes: 374 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=378--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 378
+# successes: 375 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=379--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 379
+# successes: 376 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=380--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 380
+# successes: 377 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=381--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 381
+# successes: 378 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=382--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 382
+# successes: 379 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=383--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 383
+# successes: 380 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=384--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 384
+# successes: 381 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=385--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 385
+# successes: 382 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=386--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 386
+# successes: 383 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=387--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 387
+# successes: 384 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=388--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 388
+# successes: 385 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=389--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 389
+# successes: 386 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=390--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 390
+# successes: 387 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=391--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 391
+# successes: 388 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=392--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 392
+# successes: 389 (99.2%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=393--success=False--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 393
+# successes: 389 (99.0%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=394--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 394
+# successes: 390 (99.0%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=395--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 395
+# successes: 391 (99.0%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=396--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 396
+# successes: 392 (99.0%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=397--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 397
+# successes: 393 (99.0%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=398--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 398
+# successes: 394 (99.0%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=399--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 399
+# successes: 395 (99.0%)
+
+Task: pick up the milk and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=400--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 400
+# successes: 396 (99.0%)
+Current task success rate: 0.98
+Current total success rate: 0.99
+Using default initial states
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=401--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 401
+# successes: 397 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=402--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 402
+# successes: 398 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=403--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 403
+# successes: 399 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=404--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 404
+# successes: 400 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=405--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 405
+# successes: 401 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=406--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 406
+# successes: 402 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=407--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 407
+# successes: 403 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=408--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 408
+# successes: 404 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=409--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 409
+# successes: 405 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=410--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 410
+# successes: 406 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=411--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 411
+# successes: 407 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=412--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 412
+# successes: 408 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=413--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 413
+# successes: 409 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=414--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 414
+# successes: 410 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=415--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 415
+# successes: 411 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=416--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 416
+# successes: 412 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=417--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 417
+# successes: 413 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=418--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 418
+# successes: 414 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=419--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 419
+# successes: 415 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=420--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 420
+# successes: 416 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=421--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 421
+# successes: 417 (99.0%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=422--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 422
+# successes: 418 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=423--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 423
+# successes: 419 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=424--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 424
+# successes: 420 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=425--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 425
+# successes: 421 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=426--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 426
+# successes: 422 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=427--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 427
+# successes: 423 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=428--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 428
+# successes: 424 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=429--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 429
+# successes: 425 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=430--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 430
+# successes: 426 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=431--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 431
+# successes: 427 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=432--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 432
+# successes: 428 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=433--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 433
+# successes: 429 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=434--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 434
+# successes: 430 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=435--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 435
+# successes: 431 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=436--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 436
+# successes: 432 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=437--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 437
+# successes: 433 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=438--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 438
+# successes: 434 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=439--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 439
+# successes: 435 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=440--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 440
+# successes: 436 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=441--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 441
+# successes: 437 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=442--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 442
+# successes: 438 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=443--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 443
+# successes: 439 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=444--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 444
+# successes: 440 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=445--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 445
+# successes: 441 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=446--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 446
+# successes: 442 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=447--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 447
+# successes: 443 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=448--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 448
+# successes: 444 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=449--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 449
+# successes: 445 (99.1%)
+
+Task: pick up the chocolate pudding and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=450--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 450
+# successes: 446 (99.1%)
+Current task success rate: 1.0
+Current total success rate: 0.9911111111111112
+Using default initial states
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=451--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 451
+# successes: 447 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=452--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 452
+# successes: 448 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=453--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 453
+# successes: 449 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=454--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 454
+# successes: 450 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=455--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 455
+# successes: 451 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=456--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 456
+# successes: 452 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=457--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 457
+# successes: 453 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=458--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 458
+# successes: 454 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=459--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 459
+# successes: 455 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=460--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 460
+# successes: 456 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=461--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 461
+# successes: 457 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=462--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 462
+# successes: 458 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=463--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 463
+# successes: 459 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=464--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 464
+# successes: 460 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=465--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 465
+# successes: 461 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=466--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 466
+# successes: 462 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=467--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 467
+# successes: 463 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=468--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 468
+# successes: 464 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=469--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 469
+# successes: 465 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=470--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 470
+# successes: 466 (99.1%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=471--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 471
+# successes: 467 (99.2%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=472--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 472
+# successes: 468 (99.2%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=473--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 473
+# successes: 469 (99.2%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=474--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 474
+# successes: 470 (99.2%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=475--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 475
+# successes: 471 (99.2%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=476--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 476
+# successes: 472 (99.2%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=477--success=False--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 477
+# successes: 472 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=478--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 478
+# successes: 473 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=479--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 479
+# successes: 474 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=480--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 480
+# successes: 475 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=481--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 481
+# successes: 476 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=482--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 482
+# successes: 477 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=483--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 483
+# successes: 478 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=484--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 484
+# successes: 479 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=485--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 485
+# successes: 480 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=486--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 486
+# successes: 481 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=487--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 487
+# successes: 482 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=488--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 488
+# successes: 483 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=489--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 489
+# successes: 484 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=490--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 490
+# successes: 485 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=491--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 491
+# successes: 486 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=492--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 492
+# successes: 487 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=493--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 493
+# successes: 488 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=494--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 494
+# successes: 489 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=495--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 495
+# successes: 490 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=496--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 496
+# successes: 491 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=497--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 497
+# successes: 492 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=498--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 498
+# successes: 493 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=499--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 499
+# successes: 494 (99.0%)
+
+Task: pick up the orange juice and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_09_23/2025_09_23-12_33_37--deepthinkvla--episode=500--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 500
+# successes: 495 (99.0%)
+Current task success rate: 0.98
+Current total success rate: 0.99
+Final results:
+Total episodes: 500
+Total successes: 495
+Overall success rate: 0.9900 (99.0%)

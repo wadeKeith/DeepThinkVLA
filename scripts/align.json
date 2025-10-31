@@ -1,0 +1,13 @@
+{
+  "env_vars": {
+    "NCCL_DEBUG": "WARN",
+    "RAY_memory_monitor_refresh_ms": "250",
+    "TOKENIZERS_PARALLELISM": "true",
+    "SWANLAB_API_KEY": "your_swanlab_api_key",
+    "SWANLAB_MODE": "cloud",
+    "RAY_memory_usage_threshold": "0.9"
+  },
+  "excludes": [
+    "*"
+  ]
+}

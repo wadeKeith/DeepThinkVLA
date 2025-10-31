@@ -1,5 +1,13 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+.DS_Store
+nohup.out
+__pycache__
+checkpoints/
+wandb/
+data/datasets/
+*.log
+*.npy
+src/libero/datasets
+rollouts/
+outputs/
+verl.egg-info/
+yinchenghust/
