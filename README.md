@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://arxiv.org/abs/2511.15669">
     <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv Paper">
   </a>
   <a href="https://huggingface.co/collections/yinchenghust/deepthinkvla-68ec8f6bef718c72d32c5025">
