@@ -34,6 +34,7 @@
 - [Data & Checkpoints](#data--checkpoints)
 - [Experiments](#experiments)
 - [Repository Structure](#repository-structure)
+- [Star History](#star-history)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
 
@@ -195,6 +196,11 @@ DeepThinkVLA/
 │   └── verl/              # VERL PPO stack for RL refinement
 └── checkpoints/           # (Generated) model checkpoints
 ```
+
+## ⭐ Star History
+![Star History Chart](figs/star-history.svg)
+
+_This chart auto-updates hourly via GitHub Actions._
 
 ## 🙏 Acknowledgements
 DeepThinkVLA builds on open-source components from Hugging Face Transformers, PEFT, DeepSpeed, LeRobot, LIBERO, VERL, **SimpleVLA-RL** and the broader robotics community. We thank the maintainers of:
